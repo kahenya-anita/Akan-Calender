@@ -15,6 +15,7 @@ This name generator takes a user's birthdate and gender information, and derives
 * [https://kahenya-anita.github.io/Akan-Calender]
 
 ## Screenshot
+![akan](https://user-images.githubusercontent.com/62019551/79958953-2c324000-848c-11ea-96bf-9cd63f67f310.png)
 
 ### Technologies Used
 
