@@ -1,4 +1,4 @@
-# Akan Naming Calender
+# Akan Name Generator
 
 ## Author
  * [Kahenya-anita] (https://github.com/kahenya-anita)
