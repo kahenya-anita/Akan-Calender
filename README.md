@@ -1,6 +1,6 @@
-# Akan Name Generator
+# Akan Naming Calender
 
-> This project features a generator that derives an Akan name corresponding to the day of the week that a user was born.
+* This project features a generator that derives an Akan name corresponding to the day of the week that a user was born.
 
 ## Description
 
@@ -10,9 +10,11 @@ This name generator takes a user's birthdate and gender information, and derives
 
 ### Built With
 
-- HTML
-- CSS
-- Bootstrap
+* HTML
+* CSS
+* BOOTSTRAP
+* MARKDOWN
+* JAVASCRIPT
 
 ## Getting Started
 
@@ -21,13 +23,13 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repo
 
 ```sh
-git clone https://github.com/trucktar/akan-name-generator.git
+git clone https://github.com/kahenya-anita/Akan-Calender.git
 ```
 
 2. Navigate to the parent folder
 
 ```sh
-cd akan-name-generator/
+cd Akan-Calender/
 ```
 
 3. Open the index.html file in a browser of your choice.
@@ -39,7 +41,7 @@ Otherwise, enter your birthdate and gender in the form and click Generate to der
 
 ## Contact
 
-Nyota Mwangi - [@trucktar](https://twitter.com/trucktar) - nyota.benjamin@gmail.com  
+Anita kahenya - [](https://twitter.com/trucktar) - nyota.benjamin@gmail.com  
 Project Link: [https://trucktar.github.io/akan-name-generator/](https://trucktar.github.io/akan-name-generator/)
 
 ## License
