@@ -48,7 +48,7 @@ cd Akan-Calender/
 
 ## Usage
 
-If you can quite recall the day of the week you were born, you could use the Akan Names tables to find a corresponding name.
+ * If you can quite recall the day of the week you were born, you could use the Akan Names tables to find a corresponding name.
 Otherwise, enter your birthdate and gender in the form and click Generate to derive your Akan Name.
 
 ## Contact Information
